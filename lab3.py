@@ -9,7 +9,7 @@ def write_name_to_file(name):
 
 
 def helloWorld():
-	print(‘Hello World’)
+	print('Hello World')
 
 
 helloWorld()
