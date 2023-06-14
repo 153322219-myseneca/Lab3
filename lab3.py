@@ -6,3 +6,10 @@ def write_name_to_file(name):
         file.write(name)  # Write your name to the file
     
     print(f"File '{file_name}' has been created with your name.")
+
+
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
